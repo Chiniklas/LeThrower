@@ -7,6 +7,10 @@ ZewenYang DianYu BingkunHuang ChiZhang KunTao
 go69joc@mytum.de
 
 
+https://github.com/user-attachments/assets/c0d1ebe4-1561-49ee-9938-164782f44fb3
+
+
+
 A comprehensive reinforcement learning and flow matching framework for training robotic arms to perform long-distance throwing tasks with precise targeting capabilities.
 
 ## 🎯 Overview
