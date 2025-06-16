@@ -22,7 +22,7 @@ This system trains a 5-DOF robotic arm to throw objects to specific target posit
 - **Real Robot Integration**: Export trajectories for physical robot control
 
 ### Key Features
-- ✅ **Long-distance throwing** (100+ meters)
+- ✅ **Long-distance throwing** (1.5 meters) 
 - ✅ **Precise targeting** with right-forward bias
 - ✅ **Joint-specific rewards** encouraging Rotation_R usage
 - ✅ **Trajectory visualization** and analysis
