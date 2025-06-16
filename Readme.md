@@ -1,10 +1,15 @@
 # Robotic Arm Throwing System (LE Thrower)
 
-Project at Lerobot HACKATHON Munich 2025
+Project at Lerobot HACKATHON Munich 2025\
+In 30 hours build from scratch
 
-Roboflow Team
-ZewenYang DianYu BingkunHuang ChiZhang KunTao
-go69joc@mytum.de
+Roboflow Team\
+ZewenYang\
+DianYu\
+BingkunHuang \
+ChiZhang \
+KunTao\
+Contact: imdian.yu@mytum.de
 
 
 https://github.com/user-attachments/assets/c0d1ebe4-1561-49ee-9938-164782f44fb3
@@ -326,10 +331,9 @@ examples/le/
 
 ## 📚 References
 
-- **Genesis Physics**: High-performance physics simulation
-- **RSL-RL**: Reinforcement learning framework
-- **TorchCFM**: Flow matching implementation
-- **PPO Algorithm**: Proximal Policy Optimization
+- **Genesis Physics**: High-performance physics simulation:https://github.com/Genesis-Embodied-AI/Genesis
+- **RSL-RL**: Reinforcement learning framework:https://github.com/leggedrobotics/rsl_rl
+- **TorchCFM**: Flow matching implementation:https://github.com/atong01/conditional-flow-matching
 
 ## 🤝 Contributing
 
